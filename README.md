@@ -23,7 +23,7 @@
 
 ### PARAMETERS 
 
-    - Parameters should be optional, as the goal is to have the config file set up in advance, and have MadCat to do everything for us with a simple drag-&-drop action.
+   Parameters should be optional, as the goal is to have the config file set up in advance, and have MadCat to do everything for us with a simple drag-&-drop action.
 
 
 ### NOTES
