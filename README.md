@@ -1,4 +1,4 @@
-# MadCat
+# MadCat ![alt text](https://visualpharm.com/assets/25/Black%20Cat-595b40b65ba036ed117d0e8c.svg)
 
 ### SYNOPSIS
   Tool used for speeding up IR operations
